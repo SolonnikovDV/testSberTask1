@@ -1,11 +1,11 @@
-**Comporative analysis of capability Spark 3.2.1 vs 3.3.0**
+<font size ="6">**Comporative analysis of compatibility from Spark 3.2.1 to 3.3.0**</font>
 
-<br>In current analyses used 3 warning levels *'Warn level'*:
+<br><font size="4">In current analyses used 3 warning levels *'Warn level'*:</font>
 1. *not_critical* - changes witch are extanding functionality or alow to redifine some of function parameters;
 2. *critical* - changes witch are need to manual redefine or refactor parameters;
 3. *allowed* - changes do not affect to the current one, becouse default values have a ```'false'``` args.
 
-<br>Changes with *allowed* type of warning are nit include in the current analilsys. 
+<br><font size="4">Changes with *allowed* type of warning are nit include in the current analilsys.</font>
 <br>
 | Function                                                                                                 	| Describe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	| Warn level    	| Brief conclusion                                                                                           	|
 |----------------------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|------------------------------------------------------------------------------------------------------------	|

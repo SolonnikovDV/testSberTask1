@@ -1,4 +1,5 @@
 ## Put file 'downloaded_files.csv' to hdfs:
+## Put file 'downloaded_files.csv' to hdfs:
 
 ## from local
 docker exec -it namenode /bin/bash
