@@ -1,4 +1,4 @@
-<font size="5">**Repository content-map**</font>
+<font size="8">**Repository content-map**</font>
 <br>
 <br>
 <br>1. *task 1* - dataframe processing: [code](https://github.com/SolonnikovDV/testSberTask1/blob/master/task_1/stock_prices.py) and [reasons for choosing method](https://github.com/SolonnikovDV/testSberTask1/blob/master/task_1/reasons_of_method.md)
